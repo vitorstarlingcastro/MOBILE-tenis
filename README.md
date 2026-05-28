@@ -1,17 +1,12 @@
-# mobile_tenis
+# MOBILE-tenis — ARQUIVADO
 
-A new Flutter project.
+Repositório arquivado em 2026-05-27.
 
-## Getting Started
+**Sucessor:** [`apptenis-monorepo`](https://github.com/vitorstarlingcastro/apptenis-monorepo) (privado).
 
-This project is a starting point for a Flutter application.
+Conteúdo deste repo:
+- `main`: frontend Fase 2 Stitch design (pré-reset 2026-05-21)
+- `legacy/v1`: branch arquivada do frontend Fase 1
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O código equivalente está preservado em `_legacy/` no monorepo sucessor.
+Histórico aqui é mantido somente para arqueologia.
